@@ -41,7 +41,8 @@ SLACK API = 'xoxb-44323424–234324243-dfsdfdsfsf'
 
 9.) So, what if you need all the historic headlines. We don't need it here but if you want to download all of that you can use the pushshiftapi ( https://github.com/pushshift/api) for that :-
 
-<img width="1449" alt="screen shot 2018-11-02 at 12 43 53 pm" src="https://user-images.githubusercontent.com/8762047/47928591-1ea28800-de9d-11e8-9bf7-ba36eb460795.png">
+<img width="1483" alt="screen shot 2018-11-02 at 2 24 32 pm" src="https://user-images.githubusercontent.com/8762047/47933596-5a444e80-deab-11e8-9174-4cc78f17ef9c.png">
+
 
 10.) Now we will create a dictionary for they keys which we will be reading from reddit. there are 95 different values reddit provides but we don't need all of them. As per our requirement i am using the below.
 
